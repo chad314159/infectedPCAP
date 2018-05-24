@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssl
+#open	2018-05-23-17-27-34
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	curve	server_name	resumed	last_alert	next_protocol	established	cert_chain_fuids	client_cert_chain_fuids	subject	issuer	client_subject	client_issuer
+#types	time	string	addr	port	addr	port	string	string	string	string	bool	string	string	bool	vector[string]	vector[string]	string	string	string	string
+1268758221.508194	CdxA9e49jSoOYZ7r6	192.168.23.129	1062	65.55.195.250	443	TLSv10	TLS_RSA_WITH_RC4_128_MD5	-	-	F	-	-	T	FOXSw43hGklBYILWHh,FP8n2d3JFGJZG5Ajld,FQMdT634gAJPT37A14	(empty)	CN=urs.microsoft.com,OU=Windows Live Operations,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	-	-
+#close	2018-05-23-17-27-34

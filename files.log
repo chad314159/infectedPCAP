@@ -1,0 +1,17 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2018-05-23-17-27-34
+#fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1268758221.268121	FQht07XoqizGCjvPi	59.53.91.102	192.168.23.129	CGkMei13dxn6LG0OIj	HTTP	0	(empty)	text/html	-	0.000021	-	F	6278	-	0	0	F	-	-	-	-	-	-	-
+1268758221.744665	FOXSw43hGklBYILWHh	65.55.195.250	192.168.23.129	CdxA9e49jSoOYZ7r6	SSL	0	X509,SHA1,MD5	application/pkix-cert	-	0.000000	-	F	1557	-	0	0	F	-	dee5a4b94834b81faaabf7d3f1c07d6f	7e639183b90e6db44af6eeac6e55489467497f8f	-	-	-	-
+1268758221.744665	FP8n2d3JFGJZG5Ajld	65.55.195.250	192.168.23.129	CdxA9e49jSoOYZ7r6	SSL	0	X509,SHA1,MD5	application/pkix-cert	-	0.000000	-	F	1559	-	0	0	F	-	6870daee3f74c44bc11fbd18ba938469	7e8ac29c5a328cc271a2d94f7570f7a91bf69405	-	-	-	-
+1268758221.744665	FQMdT634gAJPT37A14	65.55.195.250	192.168.23.129	CdxA9e49jSoOYZ7r6	SSL	0	X509,SHA1,MD5	application/pkix-cert	-	0.000000	-	F	1294	-	0	0	F	-	79cbec59ec938f9a35dc592dd93a8b0d	3d291db8ee22bee1337006f2efc6f9dbdd03bb25	-	-	-	-
+1268758221.997869	FaeSxj1RfzPZzShG99	59.53.91.102	192.168.23.129	CGkMei13dxn6LG0OIj	HTTP	0	(empty)	text/plain	-	0.000000	-	F	171	171	0	0	F	-	-	-	-	-	-	-
+1268758238.345221	FAGlA733M0RvJJmpy4	59.53.91.102	192.168.23.129	CN1b6oC9eKPYKOaSe	HTTP	0	(empty)	text/html	-	0.000000	-	F	409	409	0	0	F	-	-	-	-	-	-	-
+1268758250.702668	FtgXNv3YeKyLrGPzQ6	59.53.91.102	192.168.23.129	CxwBxD16j8ZErQjNWd	HTTP	0	PE	application/x-dosexec	file.exe	10.569525	-	F	68096	-	0	0	F	-	-	-	-	-	-	-
+1268758265.645636	FSADX92SkBLerdceuj	212.252.32.20	192.168.23.129	Cpq7Sg4dd3pugbCym8	HTTP	0	(empty)	text/html	-	0.000000	-	F	672	-	0	0	F	-	-	-	-	-	-	-
+#close	2018-05-23-17-27-34

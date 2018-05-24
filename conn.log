@@ -1,0 +1,24 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2018-05-23-17-27-34
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
+1268758214.788023	CC6V4T1wyQyMyCHgl2	192.168.23.129	64291	192.168.23.2	53	udp	dns	2.930238	78	360	SF	-	-	0	Dd	3	162	3	444	(empty)
+1268758221.420447	CdxA9e49jSoOYZ7r6	192.168.23.129	1062	65.55.195.250	443	tcp	ssl	0.593467	1318	5387	SF	-	-	0	ShADadfF	8	1646	11	5831	(empty)
+1268758217.701672	CGkMei13dxn6LG0OIj	192.168.23.129	1061	59.53.91.102	80	tcp	http	14.323807	773	1966	RSTO	-	-	0	ShADadfR	8	1101	8	2714	(empty)
+1268758234.688275	CA05ea4JniGktLDJ3a	192.168.23.129	59820	192.168.23.2	53	udp	dns	0.070762	26	120	SF	-	-	0	Dd	1	54	1	148	(empty)
+1268758234.546057	CN1b6oC9eKPYKOaSe	192.168.23.129	1063	59.53.91.102	80	tcp	http	8.803635	255	577	RSTO	-	-	0	ShADadfR	6	503	5	1358	(empty)
+1268758234.841573	C906dx1pK2tCc7Jj45	192.168.23.129	1064	59.53.91.102	80	tcp	-	10.189838	263	7336	SF	-	-	0	SahADdFf	10	679	14	8564	(empty)
+1268758234.842707	CQFQFc4BBQl3HJS0X8	192.168.23.129	1065	59.53.91.102	80	tcp	-	14.041870	260	5830	SF	-	-	0	SahADdfF	7	556	8	6154	(empty)
+1268758244.609168	CrIGV11a1DoktJJutk	192.168.23.129	64292	192.168.23.2	53	udp	dns	0.844963	43	101	SF	-	-	0	Dd	1	71	1	129	(empty)
+1268758239.366023	CliX8m3KYivY8lcP5a	192.168.23.129	137	192.168.23.2	137	udp	dns	2.998871	204	0	S0	-	-	0	D	3	288	0	0	(empty)
+1268758245.456726	CKiL7j4nIjvPLr4MFg	192.168.23.129	137	59.53.91.102	137	udp	dns	3.002087	150	0	S0	-	-	0	D	3	234	0	0	(empty)
+1268758261.726678	CIinQk4SKHDmlEyb0e	192.168.23.129	1068	213.155.29.144	444	tcp	-	0.518227	263	0	SF	-	-	0	ShADFaf	5	471	4	164	(empty)
+1268758249.968107	CXjQ6z46WYFBWmlzm6	192.168.23.129	1067	59.53.91.102	80	tcp	-	13.928659	199	68370	SF	-	-	0	SahADdfF	30	1415	63	72354	(empty)
+1268758264.998619	CnowWau5pRkrqZk72	192.168.23.129	52499	192.168.23.2	53	udp	dns	0.099538	29	193	SF	-	-	0	Dd	1	57	1	221	(empty)
+1268758248.981429	CxwBxD16j8ZErQjNWd	192.168.23.129	1066	59.53.91.102	80	tcp	http	19.946688	211	68370	SF	-	-	0	ShADadfF	27	1299	61	74566	(empty)
+1268758265.114322	Cpq7Sg4dd3pugbCym8	192.168.23.129	1069	212.252.32.20	80	tcp	http	1.516784	251	886	S3	-	-	0	ShADadf	5	459	5	1976	(empty)
+#close	2018-05-23-17-27-34

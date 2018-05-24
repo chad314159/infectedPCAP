@@ -3,8 +3,8 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2018-05-23-17-27-34
+#open	2018-05-24-09-12-49
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
-1268758265.645636	CKiL7j4nIjvPLr4MFg	192.168.23.129	137	59.53.91.102	137	dns_unmatched_msg	-	F	bro
-#close	2018-05-23-17-27-34
+1268758265.645636	CV5SLS2lE1f0wcHwf	192.168.23.129	137	59.53.91.102	137	dns_unmatched_msg	-	F	bro
+#close	2018-05-24-09-12-49

@@ -3,10 +3,10 @@
 #empty_field	(empty)
 #unset_field	-
 #path	x509
-#open	2018-05-23-17-27-34
+#open	2018-05-24-09-12-49
 #fields	ts	id	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len
 #types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count
 1268758221.744665	FOXSw43hGklBYILWHh	3	4B31635D000500015CB5	CN=urs.microsoft.com,OU=Windows Live Operations,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1262647546.000000	1294183546.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-
 1268758221.744665	FP8n2d3JFGJZG5Ajld	3	61166D2F000400000020	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	CN=Microsoft Internet Authority	1207791474.000000	1298157893.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	0
 1268758221.744665	FQMdT634gAJPT37A14	3	07271675	CN=Microsoft Internet Authority	CN=GTE CyberTrust Global Root,OU=GTE CyberTrust Solutions\\, Inc.,O=GTE Corporation,C=US	1203463622.000000	1298157893.000000	rsaEncryption	sha1WithRSAEncryption	rsa	4096	65537	-	-	-	-	-	T	1
-#close	2018-05-23-17-27-34
+#close	2018-05-24-09-12-49

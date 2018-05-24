@@ -3,12 +3,12 @@
 #empty_field	(empty)
 #unset_field	-
 #path	http
-#open	2018-05-23-17-27-34
+#open	2018-05-24-09-12-49
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
 #types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
-1268758218.364685	CGkMei13dxn6LG0OIj	192.168.23.129	1061	59.53.91.102	80	1	GET	nrtjo.eu	/true.php	-	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	6278	200	OK	-	-	(empty)	-	-	-	-	-	-	FQht07XoqizGCjvPi	-	text/html
-1268758221.306342	CGkMei13dxn6LG0OIj	192.168.23.129	1061	59.53.91.102	80	2	GET	nrtjo.eu	/xxx.xxx	http://nrtjo.eu/true.php	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	171	200	OK	-	-	(empty)	-	-	-	-	-	-	FaeSxj1RfzPZzShG99	-	text/plain
-1268758235.273331	CN1b6oC9eKPYKOaSe	192.168.23.129	1063	59.53.91.102	80	1	GET	nrtjo.eu	/favicon.ico	-	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	409	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FAGlA733M0RvJJmpy4	-	text/html
-1268758249.682818	CxwBxD16j8ZErQjNWd	192.168.23.129	1066	59.53.91.102	80	1	GET	nrtjo.eu	//loading.php?spl=javadnw&J050006010	-	1.1	Mozilla/4.0 (Windows XP 5.1) Java/1.6.0_05	0	68096	200	OK	-	-	(empty)	-	-	-	-	-	-	FtgXNv3YeKyLrGPzQ6	file.exe	application/x-dosexec
-1268758265.397195	Cpq7Sg4dd3pugbCym8	192.168.23.129	1069	212.252.32.20	80	1	GET	freeways.in	/11111/gate.php?guid=ADMINISTRATOR!TICKLABS-LZ!1C7AE7C1&ver=10084&stat=ONLINE&ie=8.0.6001.18702&os=5.1.2600&ut=Admin&cpu=92&ccrc=5A4F4DF7&md5=5942ba36cf732097479c51986eee91ed	-	1.1	Microsoft Internet Explorer	0	672	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FSADX92SkBLerdceuj	-	text/html
-#close	2018-05-23-17-27-34
+1268758218.364685	CFSK8hjITG9ZPI0oh	192.168.23.129	1061	59.53.91.102	80	1	GET	nrtjo.eu	/true.php	-	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	6278	200	OK	-	-	(empty)	-	-	-	-	-	-	FQht07XoqizGCjvPi	-	text/html
+1268758221.306342	CFSK8hjITG9ZPI0oh	192.168.23.129	1061	59.53.91.102	80	2	GET	nrtjo.eu	/xxx.xxx	http://nrtjo.eu/true.php	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	171	200	OK	-	-	(empty)	-	-	-	-	-	-	FaeSxj1RfzPZzShG99	-	text/plain
+1268758235.273331	Cbm4Yo3uxG8NiOTi78	192.168.23.129	1063	59.53.91.102	80	1	GET	nrtjo.eu	/favicon.ico	-	1.1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	0	409	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FAGlA733M0RvJJmpy4	-	text/html
+1268758249.682818	CmcQ604yPEejyqstOe	192.168.23.129	1066	59.53.91.102	80	1	GET	nrtjo.eu	//loading.php?spl=javadnw&J050006010	-	1.1	Mozilla/4.0 (Windows XP 5.1) Java/1.6.0_05	0	68096	200	OK	-	-	(empty)	-	-	-	-	-	-	FtgXNv3YeKyLrGPzQ6	file.exe	application/x-dosexec
+1268758265.397195	CAwn6Z39lvrCpI5bge	192.168.23.129	1069	212.252.32.20	80	1	GET	freeways.in	/11111/gate.php?guid=ADMINISTRATOR!TICKLABS-LZ!1C7AE7C1&ver=10084&stat=ONLINE&ie=8.0.6001.18702&os=5.1.2600&ut=Admin&cpu=92&ccrc=5A4F4DF7&md5=5942ba36cf732097479c51986eee91ed	-	1.1	Microsoft Internet Explorer	0	672	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FSADX92SkBLerdceuj	-	text/html
+#close	2018-05-24-09-12-49
